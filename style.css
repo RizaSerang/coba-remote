@@ -3,6 +3,10 @@
   margin: 0px;
 }
 
+div {
+  border: 2px solid;
+}
+
 h1 {
   font-family: "Courier New", Courier, monospace;
   font-weight: 10;
